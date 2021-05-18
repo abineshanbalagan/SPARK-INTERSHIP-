@@ -1,0 +1,42 @@
+body{
+    font-family: cursive;
+    background-color: #8a8b8b;
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #e78543!important;
+}
+
+.navbar-brand{
+    font-family:cursive;
+    font-size: 1.5rem;
+    color: #eff2f5!important;
+}
+
+.nav-link{
+    color: #ebedf0!important;
+    font-family: cursive;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(207, 121, 64)!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(178, 184, 183)!important;
+}
